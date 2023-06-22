@@ -1,4 +1,4 @@
-## Experiment 8
+## Experiment 21
 ## Aim:
 To implement the keyword-Case ,Cross,Join ,full outer joinAssignment
 
@@ -68,5 +68,8 @@ FROM Student
 FULL JOIN StudentCourse 
 ON StudentCourse.ROLL_NO = Student.ROLL_NO;
 ```
+## Output
+![image](https://github.com/balaji-21005757/sql-8/assets/94372294/ed0a2731-3f3e-44e4-8c02-d96dbc90790b)
+
 ## Result:
 Therefore we have successfully implemented the keyword-Case ,Cross,Join ,full outer join.
